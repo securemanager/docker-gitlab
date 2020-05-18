@@ -1,6 +1,6 @@
 # docker-gitlab
 
-# How Install :
+# How Install Documents :
 
 1. Download File at :
 
@@ -9,6 +9,11 @@ https://github.com/AshkanSecure/docker-gitlab.git
 2. insert Command :
 
 docker-compose -f docker-compose.yml up
+
+
+# How Install Video Learning :
+
+https://www.youtube.com/watch?v=JvM8bO1ywvE&
 
 
 # **How backup container:**
