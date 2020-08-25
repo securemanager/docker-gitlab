@@ -39,3 +39,12 @@ You may choose to save the tar file on NFS mount point. Another option is direct
 In this example, localhost is the hostname where the local registry is located and 5000 is the port number that the registry listens on. If you are working on a Docker engine located on a different host to the registry, you must change the hostname to point to the correct host. Note the repository and tag name, backup-image:v1 in the example, must all be in lower case to be a valid tag.
 
 `docker push backup-image:v1`
+
+
+
+## Donate
+
+Want to keep this project going? Please donate generously [https://www.buymeacoffee.com/securemanager](https://www.buymeacoffee.com/securemanager)
+
+[![Build](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/securemanager)
+
